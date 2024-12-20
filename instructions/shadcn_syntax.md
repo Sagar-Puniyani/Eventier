@@ -56,3 +56,4 @@ With these steps, you can effectively set up and start building your Next.js app
 
 Citations:
 [1] https://ui.shadcn.com/docs/installation/next
+[2] https://ui.shadcn.com/docs/components/button
